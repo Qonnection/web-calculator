@@ -6,7 +6,6 @@ A simple web-based calculator built with HTML, CSS, and JavaScript.
 - Subtraction  
 - Multiplication  
 - Division  
-- Decimal support  
 - Clear and backspace functions  
 - Responsive design
 
